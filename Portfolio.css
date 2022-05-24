@@ -1,0 +1,6 @@
+.text-muted {
+    color: #525a61!important;
+}
+.timeline>.timeline-panel {
+    padding: 0 20px 20px 100px;
+}
